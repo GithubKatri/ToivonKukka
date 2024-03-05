@@ -434,7 +434,7 @@
       /* Extra large devices (large laptops and desktops, 1500px and up) */
 @media only screen and (min-width: 1500px) {
     .container {
-        width: 80%;
+        width: 1400px;
         display: flex;
         justify-content: center;
     }
