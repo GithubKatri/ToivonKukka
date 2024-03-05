@@ -430,3 +430,10 @@
         padding: 0vh 22px 0vh 22px;
     }
   }
+    
+      /* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    html,body {
+        max-width: 1200px;
+    }
+}
