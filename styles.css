@@ -430,11 +430,4 @@
         padding: 0vh 22px 0vh 22px;
     }
   }
-    
-      /* Extra large devices (large laptops and desktops, 1500px and up) */
-@media only screen and (min-width: 1500px) {
-    .container {
-        width: 1400px;
-        margin: auto
-    }
-}
+
